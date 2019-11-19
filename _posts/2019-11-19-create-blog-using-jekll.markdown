@@ -10,7 +10,7 @@ $ sudo gem install jekyll
 $ mkdir ~/blog && cd ~/blog
 $ jekyll new twinbie.github.io
 $ jekyll serve
-$ curl http://localhost:4000
+$ curl http://localhost:4000 #test
 ```
 
 Create the repository "twinbie.github.io"
