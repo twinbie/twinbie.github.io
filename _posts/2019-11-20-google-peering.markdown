@@ -16,6 +16,7 @@ categories: netwowk
 
 Basic Architecture
 - [Google SDN]
+- [Juniper SDN]
 
 [Google ASN 조회]
 
@@ -26,3 +27,4 @@ Basic Architecture
 [Google ASN 조회]: https://bgpview.io/search/Google
 [Google Peering DB]: https://www.peeringdb.com/asn/15169
 [Google SDN]: https://www.sdxcentral.com/articles/news/google-brings-sdn-public-internet/2017/04/
+[Juniper SDN]: https://www.juniper.net/kr/kr/solutions/sdn/what-is-sdn/
